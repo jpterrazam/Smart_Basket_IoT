@@ -1,19 +1,3 @@
-/*
-####################################################################
-## Simple Mqtt Client Code for connecting to Eugenio.io IoT platform
-####################################################################
-##
-##################################################
-## Author: Artur Sarlo
-## Copyright:
-## License:
-## Version: 0.0.0
-## Maintainer: Artur Sarlo
-## Email: artur.sarlo@la.logicalis.com
-## Status: demo
-##################################################
-*/
-
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 #include <PubSubClient.h>
